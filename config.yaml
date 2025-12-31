@@ -1,2 +1,2 @@
-path: "path_to_file.joblib"
+path: "Path_to_file.joblib"
 features: ['feature_A', 'feature_B'] 
