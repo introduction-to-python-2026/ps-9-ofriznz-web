@@ -1,2 +1,2 @@
-path: "path_to_my_unagi.joblib"
-features: ['body_mass_g', 'bill_depth_mm'] 
+path: "path_to_model.joblib"
+features: ['feature_A', 'feature_B'] 
