@@ -1,2 +1,2 @@
-path: "Path_to_file.joblib"
+path: "parkinsons_model.joblib"
 features: ['spread1', 'PPE'] 
